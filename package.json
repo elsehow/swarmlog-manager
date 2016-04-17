@@ -3,6 +3,7 @@
   "author": "elsehow",
   "license": "BSD-3-Clause",
   "main": "src/index.js",
+  "version": "1.0.0",
   "watch": {
     "test": "{src,test}/*.js"
   },
@@ -20,5 +21,19 @@
     "level-browserify": "^1.1.0",
     "md5": "^2.1.0",
     "swarmlog": "^1.4.0"
-  }
+  },
+  "description": "manage your swarmlogs!",
+  "version": "1.0.0",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elsehow/swarmlog-manager.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/elsehow/swarmlog-manager/issues"
+  },
+  "homepage": "https://github.com/elsehow/swarmlog-manager#readme"
 }
